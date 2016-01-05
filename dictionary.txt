@@ -1,0 +1,106 @@
+#OWNERSHIP
+own
+ownership
+owned
+mine
+hers
+his
+individual
+personal
+private
+theirs
+very own
+
+#PURCHASE
+buy
+bought
+acquisition
+bargain
+investment
+purchase
+purchased
+closeout
+deal
+steal
+value
+good deal
+
+#SATISFACTION
+happy
+cheerful
+contented
+delighted
+ecstatic
+elated
+glad
+joyful
+joyous
+jubilant
+lively
+merry
+overjoyed
+peaceful
+pleasant
+pleased
+satisfied
+satisfactory
+convinced
+fulfilled
+appeased
+compensated
+filled
+gratified
+sated
+satiated
+thrilled
+upbeat
+blessed
+blest
+blissful
+blithe
+can't complain
+captivated
+chipper
+convivial
+exultant
+flying high
+gay
+gleeful
+gratified
+intoxicated
+tickled
+
+#USAGE
+warranty
+guarantee
+guaranty
+cheap
+cheaper
+reliable
+sturdy
+tough
+durable
+
+#OWNERSHIP
+VBZ PRP$
+VBD PRP$
+VBN IN PRP$
+PRP$ JJ
+JJS NN NN
+NN RB VBN
+PRP$ CD
+PRP VBD
+NN VBN
+
+#QUALITY
+JJ
+JJR
+JJS
+
+#EXPERIENCE
+VBD
+VBN
+
+#MODALITY
+IN PRP VBP
+PRP MD
