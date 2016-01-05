@@ -1,5 +1,5 @@
 #prepost
-All experiments were performed on a collection of auto reviews, which I included here with used dictionary.
+All experiments were performed on a collection of auto reviews, which I include here with used dictionary.
 
 1) goldstandard.txt [prepurchase and postpurchase reviews are annotated by 1 and 2 respectively]
 
