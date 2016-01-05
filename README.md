@@ -1,14 +1,19 @@
 All experiments were performed on a collection of auto reviews, which I included here with used dictionary.
 
 1) goldstandard.txt
+
 2) dictionary.txt 
 
 Authors
 
 Mehedi Hasan, Wayne State University
+
 Alexander Kotov, Wayne State University
+
 Aravind Mohan, Wayne State University
+
 Shiyong Lu, Wayne State University
+
 Paul M. Stieg, Ford Motor Co.
 
 Citation
