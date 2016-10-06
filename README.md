@@ -3,7 +3,7 @@ All experiments were performed on a collection of auto reviews, which is include
 
 1) [goldstandard.txt](https://github.com/teanalab/prepost/blob/master/goldstandard.txt) [prepurchase and postpurchase reviews are annotated by 1 and 2 respectively]
 
-2) [dictionary.txt](https://github.com/teanalab/prepost/blob/master/dictionary.txt) [to expand the seed words we utilized online thesaurus  with their synonyms and considered each resulting set of words as a dictionary]
+2) [dictionary.txt](https://github.com/teanalab/prepost/blob/master/dictionary.txt) [to expand the seed words, we utilized online thesaurus  with their synonyms and considered each resulting set of words as a dictionary]
 
 ##Authors
 
