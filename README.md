@@ -1,9 +1,9 @@
 #prepost
-All experiments were performed on a collection of auto reviews, which I include here with used dictionary.
+All experiments were performed on a collection of auto reviews, which is included here with the used dictionary.
 
-1) goldstandard.txt [prepurchase and postpurchase reviews are annotated by 1 and 2 respectively]
+1) [goldstandard.txt](https://github.com/teanalab/prepost/blob/master/goldstandard.txt) [prepurchase and postpurchase reviews are annotated by 1 and 2 respectively]
 
-2) dictionary.txt 
+2) [dictionary.txt](https://github.com/teanalab/prepost/blob/master/dictionary.txt) [to expand the seed words we utilized online thesaurus  with their synonyms and considered each resulting set of words as a dictionary]
 
 ##Authors
 
@@ -17,4 +17,4 @@ All experiments were performed on a collection of auto reviews, which I include 
 
 Please cite the following paper if you use our data or ideas in your work:
 
-Mehedi Hasan, Alexander Kotov, Aravind Mohan, Shiyong Lu and Paul Stieg. Feedback or Research: Separating Pre-purchase from Post-purchase Consumer Reviews. ECIR 2016.
+Mehedi Hasan, Alexander Kotov, Aravind Mohan, Shiyong Lu and Paul Stieg. Feedback or Research: Separating Pre-purchase from Post-purchase Consumer Reviews. ECIR 2016. [[PDF](https://github.com/teanalab/mehedi-published-papers/blob/master/ECIR%202016.pdf)]
